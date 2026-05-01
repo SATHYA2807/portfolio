@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: rgb(90, 94, 121);
+}
+nav{
+    background-color: #1e293b;
+    color: white;
+   text-align: right;
+   border-width: 5px;
+   border-color: black;
+   border-style: solid;
+   
+    
+}
+h1{
+    font-size: 100px;
+    padding-top: 70px;
+    padding-bottom: 30px;
+    padding-right: 230px;
+}
+h3{
+    font-size: 30px;
+    padding-bottom: 70px;
+    padding-right: 200px;
+} 
+.aboutme{
+    background-color: #000000;
+    color: white;
+    margin-top: 5px;
+    font-size: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+p{
+    background-color: #1e293b;
+    color: white;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-top: 0;
+    padding-left: 10px;
+}
+.education{
+    background-color: #000000;
+    color: white;
+    margin-top: 5px;
+    font-size: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+.box{
+    background-color:#1e293b;
+    color: white;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-top: 0;
+    h3{
+        padding-top: 10px;
+        padding-left: 3px;
+        padding-bottom: 10px;
+        font-size: 20px;
+    }
+}
+.box:hover{
+    transform:scale(1.02)
+}
+.skill{
+    background-color: #000000;
+    color: white;
+    margin-top: 5px;
+    font-size: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+ul{
+     background-color: #1e293b;
+    color: white;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-top: 0;
+    padding-right: 10px;
+}
+
+.certification{
+    background-color: #000000;
+    color: white;
+    margin-top: 5px;
+    font-size: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+.point{
+    list{
+        background-color: #1e293b;
+         color: white;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-top: 0;
+    padding-right: 10px;
+    }
+    a{
+        padding-top: 10px;
+        padding-left: 3px;
+        padding-bottom: 10px;
+        font-size: 20px; 
+        color: white;   
+    }   
+}
+a:hover{
+    color: brown;
+}
+.contact{
+     background-color: rgb(0, 0, 0);
+    color: white;
+    margin-top: 5px;
+    font-size: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    text-align: center;
+     border-color: black;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.details{
+   background-color:#1e293b;
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-top: 0;
+    padding-left: 40%; 
+    a{
+        color: white;
+    }
+}
+a:hover{
+    color: brown;
+}
